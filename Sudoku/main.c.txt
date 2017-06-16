@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+FILE *f,*g;
+
+ f=fopen("sudoku.in","r");
+ g=fopen("sudoku.out","w");
+ int linie,coloana,i,j;
