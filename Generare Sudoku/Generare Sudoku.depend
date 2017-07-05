@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497992580 source:c:\users\andre\desktop\abcdefg\proiect\generare sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
